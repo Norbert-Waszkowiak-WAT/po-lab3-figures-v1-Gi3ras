@@ -17,3 +17,4 @@ void Line::move(double x, double y){
 std::string Line::toString(){
     return "Line(" + a.toString() + ", " + b.toString() + ")";
 }
+ 
